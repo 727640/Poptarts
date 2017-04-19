@@ -1,7 +1,11 @@
-body{ 
-  background-image: url("Background.jpeg") no-repeat center center fixed;
+body{
+  background-image: url("Background.jpeg");+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+h1{
+    font-size: 80px;
+    color:blue;
 }
